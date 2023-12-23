@@ -19,7 +19,7 @@ It is important to identify and treat heart disease promptly, as it can lead to 
 ---
 
 ## What's Inside
-Complete Eda of heart disease prediction using seaborne as a data visualisation tool.
+Complete EDA of heart disease prediction using seaborne as a data visualisation tool.
 
 ---
 
